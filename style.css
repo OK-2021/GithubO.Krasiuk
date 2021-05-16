@@ -23,7 +23,7 @@ header {
 table {
   width: 60%;
   border-collapse: collapse;
-  color: rgb(255, 81, 0);
+  color: rgb(255, 0, 34);
 }
 section {
   display: flex;
@@ -33,12 +33,12 @@ section {
 }
 h2 {
   align-items: center;
-  color: navy;
+  color: rgb(128, 0, 0);
 }
 h3 {
   align-items: center;
   font: bolder;
-  color: rgb(237, 100, 130);
+  color: rgb(237, 100, 100);
   padding: auto;
 }
 #Contacts {
@@ -71,10 +71,10 @@ button {
   background-color: blue;
 }
 .btn {
-  color: blueviolet;
+  color: rgb(226, 43, 98);
 }
 .btn:hover {
-  border: chartreuse;
+  border: rgb(255, 0, 55);
 }
 img:hover {
   width: 70%;

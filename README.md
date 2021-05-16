@@ -1,2 +1,2 @@
 # GithubO.Krasiuk
-This repository for the studying Krasiuk's QA material. 
+This repository for studying Krasiuk's QA material. 
